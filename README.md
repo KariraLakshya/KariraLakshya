@@ -1,10 +1,24 @@
-<div align="center">
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Lakshya+Karira;Full-Stack+Developer;ML+%26+NLP+Enthusiast;Engineering+Student" alt="Typing SVG" />
-  </a>
+<h1 align="center">LAKSHYA KARIRA</h1>
+  
+  <p align="center">
+    <b>Full-Stack Developer</b> ✦ <b>ML & NLP Enthusiast</b> ✦ <b>Engineering Student</b>
+  </p>
 
   <br/>
+
+  <p align="center">
+    Welcome to my workspace.<br/>
+    I am a developer working at the intersection of <b>software engineering</b> and <b>applied AI</b>.<br/>
+    My goal is to build scalable systems while exploring the depths of Machine Learning & NLP fundamentals.
+  </p>
+
+  <p align="center">
+    <i>I prefer clarity over cleverness.</i>
+  </p>
+
+  <p align="center">
+    🌱 <b>Currently Learning:</b> Advanced React / NLP Pipelines &nbsp;|&nbsp; ⚡ <b>Focus:</b> MERN Stack / PyTorch
+  </p>
 
   <p align="center">
     <a href="mailto:kariralakshya68@gmail.com">
@@ -21,8 +35,7 @@
   </p>
 
   <br/>
-
-  <h3 align="center">🛠️ ARSENAL</h3>
+  <h3 align="center">🛠️ TECH STACK</h3>
   <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,pytorch,python,git,github&theme=dark" />
@@ -33,32 +46,41 @@
 
   <h3 align="center">🧠 TECHNICAL DEEP DIVE</h3>
   
-  <table align="center">
-    <tr>
-      <td align="center" width="33%"><b>🎨 Frontend</b></td>
-      <td align="center" width="33%"><b>⚙️ Backend</b></td>
-      <td align="center" width="33%"><b>🤖 ML & AI</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        React.js<br/>State Management<br/>Responsive UI
-      </td>
-      <td align="center">
-        Node.js<br/>Express & MongoDB<br/>REST APIs
-      </td>
-      <td align="center">
-        PyTorch<br/>NLP & Transformers<br/>Tokenization
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <b>🎨 Frontend Engineering</b><br/>
+    React.js • State Management • Component Architecture • Responsive UI
+  </p>
+  
+  <p align="center">
+    <b>⚙️ Backend Systems</b><br/>
+    Node.js • Express.js • MongoDB • RESTful API Design • System Scalability
+  </p>
+  
+  <p align="center">
+    <b>🤖 Machine Learning & NLP</b><br/>
+    PyTorch • Transformers • Attention Mechanisms • Word Embeddings • Tokenization
+  </p>
 
   <br/>
 
-## 📊 GitHub Analytics
+<h3 align="center">🧠 WHAT I CAN DO</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KariraLakshya&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariraLakshya&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160"/>
+  Design and implement RESTful APIs<br/>
+  Build responsive, component-based React applications<br/>
+  Train and evaluate ML & NLP models using PyTorch<br/>
+  Integrate ML models into backend services<br/>
+  Read, understand, and improve existing codebases
 </p>
 
-</div>
+<br/>
+
+<h3 align="center">🤝 OPEN SOURCE & COLLABORATION</h3>
+
+<p align="center">
+  Open to contributing via issues and pull requests<br/>
+  Interested in learning from code reviews and mentorship<br/>
+  Comfortable working in collaborative engineering environments
+</p>
+
+<br/>
