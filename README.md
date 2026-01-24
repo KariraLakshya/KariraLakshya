@@ -17,7 +17,7 @@
   </p>
 
   <p align="center">
-    🌱 <b>Currently Learning:</b> Advanced React / NLP Pipelines &nbsp;|&nbsp; ⚡ <b>Focus:</b> MERN Stack / PyTorch
+    🌱 <b>Currently Learning:</b> RAG / NLP Pipelines &nbsp;|&nbsp; ⚡ <b>Focus:</b> AgenticAI / PyTorch
   </p>
 
   <p align="center">
