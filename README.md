@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
     </a>
     &nbsp;
-    <a href="https://drive.google.com/file/d/1cMey6I-3Hv84XoaUE536wp2uOijq8vnG/view?usp=sharing">
+    <a href="https://drive.google.com/file/d/1EIGDrLH9hrkZCoADZtP779xb92CFfOsT/view?usp=sharing">
       <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" height="30"/>
     </a>
   </p>
