@@ -61,16 +61,6 @@
 
 ---
 
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KariraLakshya&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KariraLakshya&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 <p align="center">
   <i>2nd year @ DSCE Bengaluru &nbsp;·&nbsp; CGPA 9.1</i>
 </p>
